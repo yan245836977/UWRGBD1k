@@ -45,10 +45,10 @@ Our calculated toolkit can be found as:
 
 ```python
 root:
-	-attributes_results # Folder of attributed-evaluation results.
-	-mean_results # Folder of overview-evaluation results.
-	-pred_res # Folder of tracking results.
-	-VisRes # Folder of visualized-evaluation results.
+	-attributes_results # Folder of attributed-evaluation results (You creates it).
+	-mean_results # Folder of overview-evaluation results (You creates it).
+	-pred_res # Folder of tracking results (You creates it).
+	-VisRes # Folder of visualized-evaluation results (You creates it).
 	-attributes.json 
 	-attributes_count.json
 	-cal_all_seqs.py
