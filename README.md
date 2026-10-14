@@ -3,7 +3,7 @@
 This work releases a new RGB and depth (RGBD) dataset of underwater objects named UWRGBD1k for implementing  underwater object tracking. The UWRGBD1k is a large-scale dataset that consists of 1228 video sequences and collects total about 640 k frames. Compared with current RGBD dataset photographed on land, UWRGBD1k mainly focus on marine creatures and includes more than 26 types of marine creatures. Welcome to use our data and cite our work!
 
 ## How to use UWRGBD1k
-You can access our UW-RGBT1k via the [BaiduNet link]( https://pan.baidu.com/s/1R_9LVZV5B4z0idDm6Y0AjQ) (sjjb)
+You can access our UW-RGBT1k via the [BaiduNet link](https://pan.baidu.com/s/1mFpZzkAN7hCHgS4tApJRag?pwd=uw1k)
 
 Dataset formal:
 ```python
@@ -35,8 +35,6 @@ UW-RGBD1k:
 		-s0002.txt
 		-s0003.txt
 		...
-	-train_list.txt # Splited list of training sequences.
-	-test_list.txt # Splited list of testimg sequences.
 ```
 You can download this dataset and put it into your model.
 
